@@ -1,4 +1,4 @@
-
+# 重命名图片文件名称
 
 from glob import glob
 import os
