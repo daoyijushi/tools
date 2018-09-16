@@ -1,3 +1,5 @@
+# 该文件用来调整图片的大小
+
 # -*- coding: utf-8 -*-
 from glob import glob
 import cv2
